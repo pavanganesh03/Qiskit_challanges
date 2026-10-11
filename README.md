@@ -53,7 +53,3 @@ The results are random, so the counts may change slightly each time the notebook
 - **CNOT gate:** flips the target qubit if the control qubit is 1, which creates entanglement.
 - **Bell state:** an entangled two-qubit state with correlated outcomes.
 
-## Author
-
-Name: _your name here_
-College: Vishnu Institute of Technology
